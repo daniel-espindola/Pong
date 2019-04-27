@@ -4,20 +4,27 @@ O clássico jogo de Atari refeito com cores desnecessárias
 
 ## Getting Started
 
-O jogo pode ser rodado clickando no executável na pasta 'release'
+Para jogar no Windows basta clickar no executável nas pasta 'release'
 
 ### Prerequisites
 
 Para rodar o jogo a partir do código fonte será necessário baixar o love2D.
 
-``` https://love2d.org/
+Windows 
+```
+Arraste a pasta raiz do jogo para o executável do Love2D.
+```
 
+Linux
+Use o seguinte comando dentro da pasta do jogo ou especifique o caminho:
+```
+love .
 ```
 
 ## Built With
 
 * [Love2d](https://love2d.org/) - Game Framework utilizado.
-* [Lua](https://www.lua.org/) - Linguagem de programação do Love2D.
+* [Lua 5.1](https://www.lua.org/) - Linguagem de programação do Love2D.
 
 ## Acknowledgments
 
