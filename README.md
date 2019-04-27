@@ -10,12 +10,12 @@ Para jogar no Windows basta clickar no executável nas pasta 'release'
 
 Para rodar o jogo a partir do código fonte será necessário baixar o love2D.
 
-####Windows 
+###Windows 
 ```
 Arraste a pasta raiz do jogo para o executável do Love2D.
 ```
 
-####Linux
+###Linux
 Use o seguinte comando dentro da pasta do jogo ou especifique o caminho:
 ```
 love .
